@@ -20,6 +20,10 @@
     font-size: 18px;
 }
 
+.header p strong {
+    color: #0006ff
+}
+
 .button {
     background-color: blueviolet;
     border-radius: 10px;
