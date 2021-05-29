@@ -20,12 +20,6 @@
     font-size: 18px;
 }
 
-.header p strong {
-    font-size: 18px;
-    font-family: 'Rubik Mono One', sans-serif;
-    font-weight: 100;
-}
-
 .button {
     background-color: blueviolet;
     border-radius: 10px;
