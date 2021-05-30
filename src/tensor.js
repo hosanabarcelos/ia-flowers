@@ -53,6 +53,3 @@
         labelContainer.childNodes[i].innerHTML = "";
     }
 }
-
-// se a probabilidade de prediçao for maior    que 0.85 eu jogo 
-// essa classe na tela, se nao é nada
