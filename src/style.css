@@ -30,12 +30,20 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin-top: 4rem;
+    margin-top: 10px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button:hover {
+    background-color: rgb(122, 0, 236);
+}
+
+#webcam-container {
+    padding: 15px;
 }
 
 #label-container {
     font-size: 25px;
-    color: #FFFFFF;
+    color: white;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
